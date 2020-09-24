@@ -331,3 +331,11 @@ footer {
 .history-items {
     margin-bottom: 30px;
 }
+
+/* Media Queries  */
+
+@media only screen and (max-width: 600px) {
+  .three-reasons-heading, .name, .title, .history-items, footer .general-sub, .social-links, p {
+    text-align: center;
+  }
+}
