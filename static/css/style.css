@@ -335,7 +335,7 @@ footer {
 /* Media Queries  */
 
 @media only screen and (max-width: 600px) {
-  .three-reasons-heading, .name, .title, .history-items, footer .general-sub, .social-links, p {
+  .three-reasons-heading, .history-items, footer .general-sub, .social-links, p {
     text-align: center;
   }
 }
